@@ -1,1 +1,1 @@
-# Prefix-Tuning-GPT2
+# Prompt-Tuning-GPT2
